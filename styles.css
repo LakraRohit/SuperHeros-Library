@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+/*   background-color: black; */
   background-image: url(sp5.jpg);
   background-size:cover;
   background-attachment: fixed;
@@ -7,9 +7,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    text-align: center;
-
-    
+    text-align: center; 
   }
 
 /* for video background */
